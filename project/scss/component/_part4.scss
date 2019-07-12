@@ -1,0 +1,9 @@
+.img{
+    background: linear-gradient(to right, rgba($myGreen, 0.6), rgba($myBlue,.7)), url(images/phone.jpg);
+    height:400px;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}

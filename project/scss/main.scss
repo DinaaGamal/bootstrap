@@ -1,0 +1,16 @@
+//  importing bootstrap sass files to have access to sass functionality
+//  for example we can use $primary;
+// 3shan lw ast5dmna link el css fel head html mesh hn3rf msln n3ml $primary hydena undefined
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/navigation';
+
+@import 'component/part2';
+@import 'component/part3';
+@import 'component/part4';
+@import 'component/part5';
+
